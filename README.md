@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[https://portfolio-c3706.web.app/home ](https://rashika-varshney-portfolio.vercel.app/)
+https://rashika-varshney-portfolio.vercel.app/
 
 <!--
 **rashika-svg/rashika-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
